@@ -1,6 +1,10 @@
 # USwithUmlautsWin10
 US international keyboard layout with german umlauts for Windows.
 
+Usage:
+
+Clone the repo and use setup.exe or use the .klc file with Microsoft Keyboard Layout Creator.
+
 
 <kbd>AltGR</kbd> + <kbd>A</kbd> for <kbd>Ä</kbd>
 
