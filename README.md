@@ -1,14 +1,14 @@
 # USwithUmlautsWin10
 US international keyboard layout with german umlauts
 
-[AltGR] + [O] for Ö
+<kbd>AltGR</kbd> + <kbd>O</kbd> for <kbd>Ö</kbd>
 
-[AltGR] + [U] for Ü
+<kbd>AltGR</kbd> + <kbd>U</kbd> for <kbd>Ü</kbd>
 
-[AltGR] + [A] for Ä
+<kbd>AltGR</kbd> + <kbd>A</kbd> for <kbd>Ä</kbd>
 
-[AltGR] + [s] for ẞ
+<kbd>AltGR</kbd> + <kbd>s</kbd> for <kbd>ẞ</kbd>
 
 and
 
-[AltGR] + [2] for €
+<kbd>AltGR</kbd> + <kbd>2</kbd> for <kbd>€</kbd>
