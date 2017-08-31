@@ -1,5 +1,5 @@
 # USwithUmlautsWin10
-US international keyboard layout with german umlauts
+US international keyboard layout with german umlauts for Windows.
 
 <kbd>AltGR</kbd> + <kbd>O</kbd> for <kbd>Ö</kbd>
 
@@ -12,3 +12,5 @@ US international keyboard layout with german umlauts
 and
 
 <kbd>AltGR</kbd> + <kbd>2</kbd> for <kbd>€</kbd>
+
+Use <kbd>Shift</kbd> + <kbd>AltGR</kbd> for respective upper case.
